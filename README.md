@@ -1,21 +1,9 @@
-# StarSocialmediaApp
-Social media app built using the Django Framework.<br> 
+<h1 align="center"> StarSocialmediaApp</h1>
+<p align="center">Social media app built using the Django Framework</p>
 
-Packages installed in virtual environment.<br> 
+<p align="center"> Space Social is for anyone interested in discussing topics related to Space. Users can create an account to either join or create groups and then post in those groups</p>
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/50165811/127345391-dbfa1019-6e4b-4f7d-8209-299ce424877e.png" alt="Space Social">
+</p>
 
-cffi==1.13.2<br> 
-Django==2.2.9<br> 
-django-bootstrap3==12.0.3<br> 
-django-bootstrap4==1.1.1<br> 
-django-braces==1.13.0<br> 
-djangorestframework==3.11.0<br> 
-misaka==2.1.1<br> 
-pycparser==2.19<br> 
-Pygments==2.5.2<br> 
-pytz==2019.3<br> 
-six==1.13.0<br> 
-soupsieve==1.9.5<br> 
-sqlparse==0.3.0<br> 
 
-This django project serves as a social media site that allows creation of users, who then can login and create/join/leave <br> groups. Authorizted users can also comment and delete their comments.<br>  
-This project also uses the Django rest_framework to serialize the groups data and makes it available for use as an API.<br>  
