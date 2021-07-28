@@ -1,0 +1,40 @@
+.list-group-item {
+  margin: 5px;
+  border-radius: 10px;
+}
+
+/* -- Group message section */
+
+.media-container {
+  border: 1px solid white;
+  padding: 4px;
+  text-align: center;
+  width: 75%;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.msg-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0%;
+}
+
+.username {
+  width: 25%;
+  padding-top: 25px;
+}
+
+.delete-btn {
+  padding: 0px;
+  padding-left: 5px;
+}
+
+@media (max-width: 770px) {
+  .media-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

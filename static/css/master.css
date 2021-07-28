@@ -1,0 +1,32 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #000000;
+  margin: auto;
+  color: white;
+}
+
+#note {
+  position: absolute;
+  color: rgba(249, 241, 204, 1);
+  left: 0;
+  right: 20px;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
+
+.LogMessages {
+  text-align: center;
+  color: white;
+  margin: auto;
+  padding-top: 200px;
+}
+
+.mr-5 {
+  font: 100px;
+}

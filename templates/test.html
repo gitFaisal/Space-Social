@@ -1,0 +1,10 @@
+{% extends "base.html" %} {% block content %}
+<div class="LogMessages">
+  {% if user.is_authenticated %}
+  <h1>You are now logged in!</h1>
+  {% else %}
+  <h1>You are not logged in!</h1>
+  {% endif %}
+</div>
+
+{% endblock %}
