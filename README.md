@@ -1,5 +1,5 @@
 <h1 align="center">Space Social</h1>
-<h2>Tech Stack: Python | JavaScript | HTML | CSS</h2>
+<h2 align="center">Tech Stack: Python | JavaScript | HTML | CSS</h2>
 <p align="center">Social media app built using the Django Framework</p>
 
 <p align="center"> Space Social is for anyone interested in discussing topics related to Space. Users can create an account to either join or create groups and then post in those groups</p>
